@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,sBAEF,CACA,WAFE,iBAKF,CAHA,MACE,2BAEF,CACA,QACE,4BACF","file":"main.b8469566.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n  text-align: center;\n}\n.Todo {\n  font-family: Times New Roman;\n  text-align: center;\n}\n.strike {\n  text-decoration: line-through;\n}\n"]}

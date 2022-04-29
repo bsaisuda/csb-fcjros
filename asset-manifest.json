@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bsaisuda.github.io/csb-fcjros/static/css/main.b8469566.chunk.css",
+    "main.js": "https://bsaisuda.github.io/csb-fcjros/static/js/main.5b5fa81a.chunk.js",
+    "main.js.map": "https://bsaisuda.github.io/csb-fcjros/static/js/main.5b5fa81a.chunk.js.map",
+    "runtime-main.js": "https://bsaisuda.github.io/csb-fcjros/static/js/runtime-main.ad762780.js",
+    "runtime-main.js.map": "https://bsaisuda.github.io/csb-fcjros/static/js/runtime-main.ad762780.js.map",
+    "static/js/2.a8212b6b.chunk.js": "https://bsaisuda.github.io/csb-fcjros/static/js/2.a8212b6b.chunk.js",
+    "static/js/2.a8212b6b.chunk.js.map": "https://bsaisuda.github.io/csb-fcjros/static/js/2.a8212b6b.chunk.js.map",
+    "index.html": "https://bsaisuda.github.io/csb-fcjros/index.html",
+    "static/css/main.b8469566.chunk.css.map": "https://bsaisuda.github.io/csb-fcjros/static/css/main.b8469566.chunk.css.map",
+    "static/js/2.a8212b6b.chunk.js.LICENSE.txt": "https://bsaisuda.github.io/csb-fcjros/static/js/2.a8212b6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad762780.js",
+    "static/js/2.a8212b6b.chunk.js",
+    "static/css/main.b8469566.chunk.css",
+    "static/js/main.5b5fa81a.chunk.js"
+  ]
+}
